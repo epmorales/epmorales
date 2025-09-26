@@ -28,11 +28,15 @@
 
 ## 🏆 Badges & Certificações  
 <div>
-  <a href="https://www.linkedin.com/in/eric-morales-pcd-27939a221/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.brasilopenbadge.com.br/pages/badge/a45147056bb384d42556b88f7b86ea46" target="_blank">
+    <img src="https://img.shields.io/badge/Itaú%20Tech%20Front%20End-Gama%20Academy-green?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Google_Cloud-Certificado-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Certificado-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  
+  <a href="https://www.credly.com/badges/a30e45e8-90cf-47fe-bd39-d7a748bcad18/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Certificação%20Credly-blue?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+  
+  <img src="https://img.shields.io/badge/Certificado%20de%20Ouvidoria-FEBRABAN-lightgrey?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </div>
 
 ---
