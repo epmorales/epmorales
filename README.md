@@ -27,18 +27,17 @@
 ---
 
 ## 🏆 Badges & Certificações  
-
-- ![Itaú](https://img.shields.io/badge/M365%20Copilot-Itaú%20Unibanco-orange?style=for-the-badge&logo=microsoft)  
-  Emitido em **set/2025**
-
-- ![Itaú](https://img.shields.io/badge/Change%20Management%20Trained-Itaú%20Unibanco-orange?style=for-the-badge&logo=gitbook)  
-  **jan/2024 – jan/2029**
-
-- ![Gama Academy](https://img.shields.io/badge/Programa%20Itaú%20Tech-Front%20End-brightgreen?style=for-the-badge&logo=javascript)  
-  Emitido em **set/2021**
-
-- ![FEBRABAN](https://img.shields.io/badge/Certificado%20de%20Ouvidoria-FEBRABAN-blue?style=for-the-badge&logo=bookstack)  
-
+<div>
+  <a href="https://www.brasilopenbadge.com.br/pages/badge/a45147056bb384d42556b88f7b86ea46" target="_blank">
+    <img src="https://img.shields.io/badge/Itaú%20Tech%20Front%20End-Gama%20Academy-green?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/a30e45e8-90cf-47fe-bd39-d7a748bcad18/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Certificação%20Credly-blue?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+  
+  <img src="https://img.shields.io/badge/Certificado%20de%20Ouvidoria-FEBRABAN-lightgrey?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</div>
 
 ---
 
