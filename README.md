@@ -2,7 +2,7 @@
 
 💼 Trabalho há 18 anos no **Itaú Unibanco**  
 🎓 Graduado em **Administração de Empresas** (UNICID)  
-📚 Estudante de **Ciência da Computação** (4º semestre)  
+📚 Estudante de **Ciência da Computação** (6º semestre)  
 🙏 Catequista de Primeira Eucaristia e Crisma  
 
 ---
@@ -19,8 +19,8 @@
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=epmorales&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epmorales&layout=compact&theme=radical" height="150"/>
 </div>
 
 ---
