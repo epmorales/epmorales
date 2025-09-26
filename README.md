@@ -26,7 +26,7 @@
 ---
 
 ## 🌍 Onde me encontrar  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/eric-morales-pcd-27939a221/))  
+- 💼 https://www.linkedin.com/in/eric-morales-pcd-27939a221/
 
 ---
 
