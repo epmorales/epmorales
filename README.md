@@ -61,7 +61,6 @@ Sou fascinado por InteligÃªncia Artificial e seu potencial de transformar operaÃ
 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/eric-morales-pcd-27939a221/) https://www.linkedin.com/in/eric-morales-pcd-27939a221/
 
----
 
 <div align="center">
   
