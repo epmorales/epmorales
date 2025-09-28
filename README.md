@@ -9,17 +9,15 @@
 
 ## 👨‍💼 Sobre  
 
-Graduado em **Administração de Empresas pela UNICID**, atualmente sou **Analista Pleno na Superintendência de Operações de Órgãos Legais (Gerência de Canais Críticos)** do **Banco Itaú**, onde atuo desde **outubro de 2006**.  
+Graduado em Administração de Empresas pela UNICID, atualmente sou Analista Pleno na Superintendência de Operações de Órgãos Legais (Gerência de Canais Críticos) do Banco Itaú, onde atuo desde outubro de 2006.
 
-Durante minha trajetória no banco, desempenhei diversas funções, começando como **Operador de Telemarketing** nos setores de **Cobrança** e **Detecção de Fraudes (Falcon)**, seguido pelos cargos de **Analista Administrativo** em **Ação Cível** e **Ouvidoria**.  
+Ao longo da minha trajetória no banco, passei por diferentes funções, começando como Operador de Telemarketing nos setores de Cobrança e Detecção de Fraudes (Falcon), e avançando para cargos de Analista Administrativo em Ação Cível e Ouvidoria. Hoje, foco minha atuação no relacionamento com órgãos reguladores, como BACEN e Procon, garantindo conformidade normativa e a melhor experiência para os clientes.
 
-Atualmente, minha atuação está focada no **relacionamento com órgãos reguladores**, como **BACEN** e **Procon**, garantindo o **cumprimento das normas** e a **melhor experiência para os clientes**.  
+Atualmente, curso o 6º semestre de Ciência da Computação, ampliando minhas competências técnicas e reforçando minha capacidade de atuar em projetos de tecnologia e inovação.
 
-Estou cursando o **6º semestre de Ciência da Computação**, ampliando meu conhecimento técnico e habilidades em tecnologia, complementando minha experiência no setor financeiro.  
+Com 18 anos de experiência no Itaú, busco agora transição de carreira para o setor de tecnologia, aplicando meu conhecimento em processos críticos para desenvolver soluções inteligentes e orientadas a dados.
 
-Possuo ampla expertise em produtos de **Crédito Imobiliário**, **Financiamento de Veículos**, **Consórcio** e **Seguros de Proteção Financeira**, além dos seguros **MIP (Morte e Invalidez Permanente)** e **DFI (Danos Físicos ao Imóvel)** vinculados ao imóvel.  
-
-Com **18 anos de experiência no Itaú Unibanco**, continuo buscando aprendizado e crescimento constante para contribuir ainda mais com a empresa e com o desenvolvimento de soluções que atendam às necessidades dos clientes e do mercado.  
+Sou fascinado por Inteligência Artificial e seu potencial de transformar operações, gerar insights estratégicos e impulsionar inovação, unindo expertise em negócios e visão tecnológica para causar impacto real no mundo corporativo e na sociedade.
 
 ---
 
