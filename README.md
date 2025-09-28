@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Change%20Management-Trained-green?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="./Certificado%20ITAÚ%20TECH.pdf" target="_blank">
+  <a href="./Certificado_ITAU_TECH.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Programa%20Itaú%20Tech-Front%20End-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </div>
