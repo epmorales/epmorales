@@ -57,17 +57,7 @@ Sou fascinado por Inteligência Artificial e seu potencial de transformar opera�
 
 ---
 
-## 🌍 Onde me encontrar  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eric-morales-pcd-27939a221/">
-    <img src="linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/eric-morales-pcd-27939a221/" style="vertical-align: middle; text-decoration: none; color: #0a66c2;">
-    https://www.linkedin.com/in/eric-morales-pcd-27939a221/
-  </a>
-</p>
+[![LinkedIn](https://raw.githubusercontent.com/<seu-usuário>/<seu-repositório>/main/images/linkedin.png)](https://www.linkedin.com/in/eric-morales-pcd-27939a221/) https://www.linkedin.com/in/eric-morales-pcd-27939a221/
 
 ---
 
