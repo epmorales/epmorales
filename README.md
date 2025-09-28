@@ -63,7 +63,6 @@ Sou fascinado por InteligÃªncia Artificial e seu potencial de transformar operaÃ
   <img src="https://img.shields.io/badge/LinkedIn-Eric%20Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-
 ---
 
 <div align="center">
