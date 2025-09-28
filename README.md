@@ -1,9 +1,25 @@
 # 👋 Olá, eu sou Eric Morales  
 
-💼 Trabalho há 18 anos no **Itaú Unibanco**  
-🎓 Graduado em **Administração de Empresas** (UNICID)  
-📚 Estudante de **Ciência da Computação** (6º semestre)  
-🙏 Catequista de Primeira Eucaristia e Crisma  
+💼 **Analista Pleno no Itaú Unibanco**  
+🎓 **Graduado em Administração de Empresas (UNICID)**  
+💻 **Estudante de Ciência da Computação (6º semestre)**  
+🙏 **Catequista de Primeira Eucaristia e Crisma**  
+
+---
+
+## 👨‍💼 Sobre  
+
+Graduado em **Administração de Empresas pela UNICID**, atualmente sou **Analista Pleno na Superintendência de Operações de Órgãos Legais (Gerência de Canais Críticos)** do **Banco Itaú**, onde atuo desde **outubro de 2006**.  
+
+Durante minha trajetória no banco, desempenhei diversas funções, começando como **Operador de Telemarketing** nos setores de **Cobrança** e **Detecção de Fraudes (Falcon)**, seguido pelos cargos de **Analista Administrativo** em **Ação Cível** e **Ouvidoria**.  
+
+Atualmente, minha atuação está focada no **relacionamento com órgãos reguladores**, como **BACEN** e **Procon**, garantindo o **cumprimento das normas** e a **melhor experiência para os clientes**.  
+
+Estou cursando o **6º semestre de Ciência da Computação**, ampliando meu conhecimento técnico e habilidades em tecnologia, complementando minha experiência no setor financeiro.  
+
+Possuo ampla expertise em produtos de **Crédito Imobiliário**, **Financiamento de Veículos**, **Consórcio** e **Seguros de Proteção Financeira**, além dos seguros **MIP (Morte e Invalidez Permanente)** e **DFI (Danos Físicos ao Imóvel)** vinculados ao imóvel.  
+
+Com **18 anos de experiência no Itaú Unibanco**, continuo buscando aprendizado e crescimento constante para contribuir ainda mais com a empresa e com o desenvolvimento de soluções que atendam às necessidades dos clientes e do mercado.  
 
 ---
 
@@ -44,7 +60,7 @@
 ---
 
 ## 🌍 Onde me encontrar  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eric-morales-pcd-27939a221/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Eric%20Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-morales-pcd-27939a221/)
 
 ---
 
